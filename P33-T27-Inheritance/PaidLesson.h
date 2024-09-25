@@ -1,5 +1,6 @@
 #pragma once
 #include "Lesson.h"
+
 class PaidLesson : public Lesson
 {
 protected:
